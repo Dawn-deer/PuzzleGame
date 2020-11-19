@@ -9,9 +9,6 @@ import android.os.Bundle;
 import com.example.puzzlegame.R;
 
 
-/**
- * Created by Axe on 2017/7/15.
- */
 
 public class SuccessDialog extends DialogFragment {
 
