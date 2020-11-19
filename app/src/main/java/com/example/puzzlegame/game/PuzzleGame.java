@@ -10,11 +10,7 @@ import androidx.annotation.NonNull;
 import com.example.puzzlegame.R;
 import com.example.puzzlegame.ui.PuzzleLayout;
 
-/**
- * @Author Zaifeng
- * @Create 2017/7/13 0013
- * @Description Content
- */
+
 
 public class PuzzleGame implements Game, PuzzleLayout.SuccessListener {
 
