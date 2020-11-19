@@ -27,11 +27,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * @Author Zaifeng
- * @Create 2017/7/13 0013
- * @Description Content
- */
+
 
 public class PuzzleLayout extends FrameLayout implements View.OnClickListener {
 
