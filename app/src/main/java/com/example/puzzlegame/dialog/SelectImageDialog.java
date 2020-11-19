@@ -21,9 +21,7 @@ import com.example.puzzlegame.R;
 import com.example.puzzlegame.Utils.Utils;
 import com.example.puzzlegame.module.ImageSoures;
 
-/**
- * Created by Axe on 2017/7/15.
- */
+
 
 public class SelectImageDialog extends DialogFragment {
 
